@@ -1,0 +1,24 @@
+slot_per_frame: 100 
+effective_slot_per_frame: 80
+iter_times: 15
+num_partner: 1
+num_c: 256
+bits_per_c: 32
+H: 48
+W: 176
+bandwidth: 20e6 # 20MHz
+scenario: "urban"  
+direction: "sidelink" 
+frequency: 5.9e9  # 5.9GHz
+tx_power: 23.0    # 23dBm
+num_subchannel: 10
+scs: 15e3  #15KHz
+time_slot_duration: 1e-3
+num_sc_per_rb: 12
+num_rb_per_subchannel: 10
+seed: 42
+polarization: "single"
+polarization_type: "V"
+antenna_pattern: "omni"
+shadow_fading: true
+small_scale_fading: true
