@@ -9,4 +9,4 @@ Our work has built a communication-perception coupled collaborative perception m
 2. Collaborative Perception Task 
    The collaborative perception task is adapted to the open-source OpenCOOD platform, and only a small number of modifications are needed to integrate our communication module with it. Due to the limitations of the open-source license, we do not provide the corresponding code here, and users can search for and modify it themselves. 
 
-Xinyue Wei, Sheng Gao, Kan Zheng, Jie Mei, Lu Hou
+
